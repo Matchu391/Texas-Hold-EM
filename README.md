@@ -1,2 +1,2 @@
 # Texas-Hold-EM
-betting and computer Ai still not setup plan to get it done soon
+No all in was added an only one major bug computer will fold all the time when its money gets to low
